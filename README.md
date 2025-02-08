@@ -65,8 +65,6 @@ The primary goal of this project was to **develop an interactive Power BI dashbo
 - **Develop predictive models** for revenue forecasting and demand estimation.
 - **Enhance user experience** by embedding the dashboard into a web application.
 
-## 📩 Contact
-For any queries or collaborations, reach out to me on **[LinkedIn](www.linkedin.com/in/yaser-arafath-ya1)** or **[Email](yasararafath111201@gmail.com)**.
 
 ---
 ### ⭐ If you found this project helpful, don’t forget to **star the repository** on GitHub! ⭐
